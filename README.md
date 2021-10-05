@@ -20,3 +20,9 @@ RT-GENE: https://zenodo.org/record/2529036
 UT Multi-view: https://www.ut-vision.org/datasets/
 - Access is here: https://www.ut-vision.org/datasets/
 - Problem: Images are all eye-crops
+
+From [Appearance-based Gaze Estimation With Deep Learning: A Review and Benchmark](https://arxiv.org/pdf/2104.12668.pdf):
+
+MPIIFaceGaze: https://perceptualui.org/research/datasets/MPIIFaceGaze/
+- Easily downloadable from homepage
+- 
