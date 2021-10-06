@@ -1,5 +1,10 @@
+# Dataset files
 /data/MPIIGaze/
-/data/RTGENE/
-/data/UT_Multiview
 /data/MPIIGaze.tar.gz
+/data/RTGENE/
+/data/UT_Multiview/
 /data/MPIIFaceGaze/
+
+# Model files
+# RetinaFace (cloned, added pretrained model as explained in README.md): https://github.com/biubug6/Pytorch_Retinaface
+/model/Pytorch_RetinaFace/
